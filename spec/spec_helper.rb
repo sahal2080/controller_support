@@ -1,3 +1,4 @@
+$LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
 # Configure Rails Envinronment
 ENV["RAILS_ENV"] = "test"
 
